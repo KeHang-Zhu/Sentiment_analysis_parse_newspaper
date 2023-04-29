@@ -33,7 +33,7 @@ Sentiment Analysis: Use a Convolutional Neural Network (CNN) to extract features
 In order to show the negative sentiment more clearly, we define the panic score function:
 $Panic \ score = log(sentiment \  socre + 1)$
 
-# Add the single data analysis (New York v.s. Alaska)
+# Add the single data analysis (New York v.s. Connecticut)
 
 <p align="center">
   <img src="Comparison.png" alt="Your Image" width="650" >
