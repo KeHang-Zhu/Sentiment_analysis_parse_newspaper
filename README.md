@@ -42,6 +42,11 @@ $Panic \ score = log(sentiment \  socre + 1)$
 
 # Add the video
 
+<p align="center">
+  <img src="heatmap_1920.png" alt="Your Image" >
+</p>
+heatmap_1920.png
+
 
 Unfortunately, GitHub doesn't support embedding videos directly in README files. However, you can find the "heatmap_evolution_597.mp4" in the repo and download it to watch.
 
