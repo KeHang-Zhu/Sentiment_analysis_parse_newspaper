@@ -6,7 +6,7 @@ The causes behind the severity and longevity of the Great Depression have been e
 
 ## Workflow
 <p align="center">
-  <img src="process.png" alt="Your Image" width="650" height="300">
+  <img src="process.png" alt="Your Image" width="650" >
 </p>
 
 
@@ -36,14 +36,14 @@ $Panic \ score = log(sentiment \  socre + 1)$
 # Add the single data analysis (New York v.s. Alaska)
 
 <p align="center">
-  <img src="Comparison.png" alt="Your Image" width="650" height="450">
+  <img src="Comparison.png" alt="Your Image" width="650" >
 </p>
 
 
 # Add the video
 
 <p align="center">
-  <img src="Heatmap_1920.png" alt="Your Image" >
+  <img src="Heatmap_1920.png" alt="Your Image" width="650" >
 </p>
 
 
