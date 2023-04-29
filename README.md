@@ -4,8 +4,9 @@
 The causes behind the severity and longevity of the Great Depression have been extensively studied by economists and historians. In comparison to the 2008 Great Financial Crisis, there is limited data availability on the Great Depression, making it challenging to obtain detailed and comprehensive information on the economic conditions of the time. The structured data that I create could provide a more complete picture of the sentiment and topics covered in newspaper articles during that era, and shed light on the economic and social conditions of the time. Understanding the factors that contributed to the Great Depression's severity and duration is crucial to gain a deeper understanding of its impact on people, institutions, and governments.
 
 
-#include image of process
-![ABC image](process.png)
+## Workflow
+
+<img src="process.png alt="Alt text" width="300" height="200">
 
 
 Step1: Searching databases of newspapers from the 1930s. Some relevant databases include:
