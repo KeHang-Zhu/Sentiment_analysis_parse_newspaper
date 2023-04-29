@@ -5,6 +5,8 @@ The causes behind the severity and longevity of the Great Depression have been e
 
 
 #include image of process
+![ABC image](Screenshot 2023-04-28 at 8.10.03 PM.png)
+
 
 Step1: Searching databases of newspapers from the 1930s. Some relevant databases include:
 ##TODO make a list
