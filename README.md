@@ -35,6 +35,7 @@ $Panic \ score = log(sentiment \  socre + 1)$
 
 
 # Add the video
+
 <video src="heatmap_evolution_597.mp4" width="320" height="240" controls>
 </video>
 
