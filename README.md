@@ -35,6 +35,7 @@ Break the OCR into 100-200 word chunks, then drop chunks with <90% (or so) word 
 Here, we mainly use Roberta as out sentiment analysis tool. Roberta is a state-of-the-art natural language processing (NLP) model developed by Facebook AI that uses a modified training approach to achieve high performance on NLP tasks such as language understanding, text classification, and question answering. It can learn from large amounts of text data in an unsupervised manner and is available as a pre-trained model that can be fine-tuned on specific tasks with relatively small amounts of labeled data. Roberta has been used in a variety of applications and has achieved impressive results in several NLP benchmarks.
 
 In order to show the negative sentiment more clearly, we define the panic score function:
+
 $Panic \ score = log(sentiment \  socre + 1)$
 
 ### Step5: the single data analysis (New York v.s. Connecticut)
