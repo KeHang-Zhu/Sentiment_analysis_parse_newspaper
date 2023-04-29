@@ -5,8 +5,9 @@ The causes behind the severity and longevity of the Great Depression have been e
 
 
 ## Workflow
-
-<img src="process.png alt="Alt text" width="300" height="200">
+<p align="center">
+  <img src="process.png" alt="Your Image" width="650" height="300">
+</p>
 
 
 Step1: Searching databases of newspapers from the 1930s. Some relevant databases include:
@@ -34,13 +35,16 @@ $Panic \ score = log(sentiment \  socre + 1)$
 
 # Add the single data analysis (New York v.s. Alaska)
 
-![ABC image](Comparison.png)
+<p align="center">
+  <img src="Comparison.png" alt="Your Image" width="650" height="450">
+</p>
 
 
 # Add the video
 
-<video src="heatmap_evolution_597.mp4" width="320" height="240" controls>
-</video>
+
+Unfortunately, GitHub doesn't support embedding videos directly in README files. However, you can find the "heatmap_evolution_597.mp4" in the repo and download it to watch.
+
 
 
 ## Future steps:
