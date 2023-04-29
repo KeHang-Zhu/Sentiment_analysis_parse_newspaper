@@ -1,6 +1,6 @@
-#Regional variation of negative sentiment during Great Depression through newspaper articles using NLP
+# Regional variation of negative sentiment during Great Depression through newspaper articles using NLP
 
-### Motivation
+## Motivation
 The causes behind the severity and longevity of the Great Depression have been extensively studied by economists and historians. In comparison to the 2008 Great Financial Crisis, there is limited data availability on the Great Depression, making it challenging to obtain detailed and comprehensive information on the economic conditions of the time. The structured data that I create could provide a more complete picture of the sentiment and topics covered in newspaper articles during that era, and shed light on the economic and social conditions of the time. Understanding the factors that contributed to the Great Depression's severity and duration is crucial to gain a deeper understanding of its impact on people, institutions, and governments.
 
 
@@ -27,15 +27,16 @@ Sentiment Analysis: Use a Convolutional Neural Network (CNN) to extract features
 
 
 In order to show the negative sentiment more clearly, we define the panic score function:
-$$
-Panic\n score = log(sentiment\n socre + 1)
-$$
+$Panic \ score = log(sentiment \  socre + 1)$
 
 # Add the single data analysis (New York v.s. Alaska)
+
+![ABC image](abc.png)
+
 
 # Add the video
 
 
 
-Future steps:
+## Future steps:
 1. Fine tuning off-the-shelf Roberta. Pick out articles about economic news/bankrupcy/small business need loans
