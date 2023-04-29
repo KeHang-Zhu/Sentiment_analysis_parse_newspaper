@@ -31,11 +31,12 @@ $Panic \ score = log(sentiment \  socre + 1)$
 
 # Add the single data analysis (New York v.s. Alaska)
 
-![ABC image](abc.png)
+![ABC image](Comparison.png)
 
 
 # Add the video
-
+<video src="heatmap_evolution_597.mp4" width="320" height="240" controls>
+</video>
 
 
 ## Future steps:
