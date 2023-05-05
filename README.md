@@ -54,7 +54,5 @@ $Panic \ score = log(sentiment \  socre + 1)$
 
 Unfortunately, GitHub doesn't support embedding videos directly in README files. However, you can find the "heatmap_evolution_597.mp4" in the repo and download it to watch.
 
-
-
-## Future steps:
-1. Fine tuning off-the-shelf Roberta. Pick out articles about economic news/bankrupcy/small business need loans
+### Step7*: Fine-tune the pre-trained model
+Fine tuning off-the-shelf Roberta. Pick out articles about economic news/bankrupcy/small business need loans.
