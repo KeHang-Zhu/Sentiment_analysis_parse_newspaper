@@ -56,3 +56,6 @@ Unfortunately, GitHub doesn't support embedding videos directly in README files.
 
 ### Step7*: Fine-tune the pre-trained model
 Fine tuning off-the-shelf Roberta. Pick out articles about economic news/bankrupcy/small business need loans. We have manually selected around 200 newspaper content chunks and label them as negative, neutral or positive. Then adding a final layer to the pre-trained RoBERTa model and tune the output.
+
+## TODO:
+Add a filter module that uses the Cosine similarity to filter out irrelevant contents, like ordinary facts which doesn't contain the sentiment.
